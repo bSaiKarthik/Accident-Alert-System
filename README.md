@@ -8,7 +8,7 @@ Features 🚀
 
 🔦 LED Light: Illuminate dark corners with the built-in LED light. Perfect for secret missions in the dark! 💡
 
-Team : Karthik, Charan, Rishitha, Aravind
+Team : Karthik, Charan, Rishitha, Aravind,Lakshmi
 
 Hardware Requirements: Node Mcu ESP8266 board,Gps Module ,Gsm Module,Accelerometer Software Requirements: Arduino IDE, ESP8266 board package, required libraries (AsyncTCP, ESPAsyncWebServer).
 ![image](https://github.com/user-attachments/assets/e7329583-fa9d-4192-87aa-0d8552f53dd5)
